@@ -1,0 +1,16 @@
+Copyright 2007-2012 iPhone Dev-Team. All rights reserved. Not for commercial use. 
+
+redsn0w is to be used at your own risk, we do not accept any responsibility for any damage that this tool may cause to any of your equipment.
+
+THE REDSN0W SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Neither the name, trademarks, service marks or logos of redsn0w or the 'iPhone DevTeam' may be used to endorse or promote products derived from the software without specific prior written permission from the 'iPhone DevTeam'. Except as expressly stated in this notice, no other rights or licenses, express or implied, are granted herein.
+
+The resale of this application (redsn0w) is strictly prohibited, modification and redistribution of this applications are strictly prohibited.
+The Apple name, the Apple logo, the iTunes, the iPhone, the iPhone 3G, the iPod Touch names are trademarks of Apple Inc.
+
+
+
+
+ 
+

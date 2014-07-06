@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+
+    <key>CFBundleExecutable</key>
+    <string>Cydia</string>
+
+    <key>CFBundleIdentifier</key>
+    <string>com.saurik.Cydia</string>
+
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+
+    <key>CFBundleName</key>
+    <string>Cydia</string>
+
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+
+    <key>CFBundleShortVersionString</key>
+    <string>0.9</string>
+
+    <key>CFBundleSignature</key>
+    <string>????</string>
+
+    <key>CFBundleVersion</key>
+    <string>0.9</string>
+
+    <key>SBUsesNetwork</key>
+    <integer>11</integer>
+
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>Cydia Internal URL</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>cydia</string>
+            </array>
+        </dict>
+    </array>
+
+    <key>DTSDKName</key>
+    <string>iphoneos2.0.saurik</string>
+
+    <key>MinimumOSVersion</key>
+    <string>2.0</string>
+
+    <key>UIDeviceFamily</key>
+    <array>
+        <integer>1</integer>
+        <integer>2</integer>
+    </array>
+
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <!--string>UIInterfaceOrientationPortraitUpsideDown</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string-->
+    </array>
+
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>audio</string>
+        <string>continuous</string>
+    </array>
+</dict>
+
+</plist>

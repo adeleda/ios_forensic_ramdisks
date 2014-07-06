@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>PwnageTool</string>
+	<key>CFBundleIconFile</key>
+	<string>PwnageTool</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.devteam.pwnagetool</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PwnageTool</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>4.1</string>
+	<key>CFBundleSignature</key>
+	<string>DVTM</string>
+	<key>CFBundleVersion</key>
+	<string>4.1</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>SUExpectsDSASignature</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>http://www.iphone-dev.org/appcast/PwnageTool2.xml</string>
+	<key>SUPublicDSAKey</key>
+	<string>-----BEGIN PUBLIC KEY-----
+MIIDOzCCAi4GByqGSM44BAEwggIhAoIBAQD3tvytscc2Kj0jvIcjEY8N1FxJKRN3
+670IBLFfmA0PMiTolIqX4YogIiq563znSS5lMmNRs//8xAsGZsUfhNhH0YAurMYn
+7/BYgV6bR4opq3YqvE6ZSvTbntIoHE3EyEwY6GPXsgMF5wyTKo4BYKD6d/PsRvfO
+ouib8K5puzQULV7ImmMM1x3GFa1oaTlpC4kwf3sI0rlx1Q0JsxZBWxnutpeCWz79
+t1HQ8sG/TPlU7xumppuEFrgOos87VHuhd5SLUKf7XgXzVFMzvhbu/gBnFytN5w0E
+NQCR5SLxL2TExUUIQ+yeUp6OVNbID7/sVwTgYmvG8eiELN79F7JJmGaHAhUAh5bT
+6uCs8SSavkZnCF3AerIMw1ECggEBAMgI6IWfIC3td8l0MVm4w0RmObvd3gB+Mye9
+KQVNnh/5Jb8ZaPHzEzL1ycrKEWj7dF9rZfsgERUnnogdTo3zCgC0p1jiKWgpsOw2
+kB8FYOAJeyAiC7PApvcUTTt061jfIfCVkPKcdLl3tUTJAyOZzmOVWA6Qfjzmv/Mq
+FD91pun/wDC27AiAxobITPHVRw6Ybs/Vn2QdWBc/DhFvTy5W+vsdOxpF9Z+eaRwL
+4+Wl7I671xJ81vXPVrFu5jJdQhPF+sxTUvPSkQmfPqAozT0tV9ZMzIAN+DNb5mwb
+4YoSEavweUOpg9lddnXddxd5g4B/KSEAJmNzSs9h3L1ixt1adV8DggEFAAKCAQAQ
+JrngFSJ5eevrQK8yE/tLFSSMlKeJCFagPXdENRM+aM0rPKWUIaRpflYHbl03swBO
+tKrjMvAbosca+XRQ4Z6yBRLA5Ugwhw6TSwP9Nr34aUzKsED+UqYZmFxlentXkRPE
+lBvxTF7ctYFQMxGv2M9gQc3Gscqv0XtDw3Wj7hRGUlm8jnUZU77dBke9+JXffBri
+bT3mst1lg/XquGvbPaVGMvb67HXP6socifNbO0xnGM9MPWzp/PKWY/swAzeo3lUt
+rgkRzm0cHDJEv0JTmfr5ZI5RQ4Orli3M3Ia8RNxr0LXs5Sp35S9q/7RwuaE6vPtj
+mgjZPiEu5vNpnTh3owg2
+-----END PUBLIC KEY-----</string>
+</dict>
+</plist>

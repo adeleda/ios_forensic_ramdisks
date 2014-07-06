@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/lessecho
+/usr/bin/lesskey
+/usr/bin/less
+/usr/bin/more
+/bin
+/bin/more
+/etc
+/etc/profile.d
+/etc/profile.d/less.sh

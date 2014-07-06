@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/bin
+/usr/bin/lsvfs
+/usr/bin/finger
+/usr/bin/md
+/usr/bin/locale
+/usr/bin/last
+/usr/bin/tabs
+/usr/libexec
+/usr/libexec/fingerd
+/bin
+/bin/ps

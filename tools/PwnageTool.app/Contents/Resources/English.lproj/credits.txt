@@ -1,0 +1,68 @@
+PwnageTool.app is to be used at your own risk, we do not accept any responsibility for any damage that this tool may cause to any of your equipment.
+
+PwnageTool.app is not for commercial use, watch those monkeys. 
+
+Resale of this application is strictly prohibited.
+
+The Apple name, the Apple logo, the iTunes, the iPhone, the iPhone 3G, the iPod Touch names are trademarks of Apple Inc.
+
+Thanks to all the DevTeam on the help with this tool, the DevTeam are:- asap18, bgm, Bugout, bushing, c1de0x, chris, dinopio, drudge, Fred_, 
+ghost_000, gray, iZsh, MuscleNerd, netkas, np101137, planetbeing, pr3d4t0r, pumpkin, pytey, roxfan, sam, saurik, Turbo, w___, wizdaz, Zf
+
+The latest version of this document can be always found in the latest PwnageTool release from the official DevTeam site http://wikee.iphwn.org/
+
+With thanks to the following people for localizations:-
+
+French - The Idler 
+German - Andre Sendowsk http://www.sendowski.de/
+Hungarian - on- & Juditka  
+Italian - zibri
+Russian - RipDev
+
+GRAPHICS AND UI
+***************
+
+All images are created from scratch apart from some of the button images which were derived from files and images taken form the following sources
+Button files care of the "Tango Desktop Project" - http://tango.freedesktop.org/Tango_Desktop_Project
+
+Awesome graphical stuff is made by Harwood(TM), the "jack with a mission" - http://harwood-leon.com/
+
+All open-source graphic files are available by e-mailing paul@harwood-leon.com apart from ones derived from the Tango Desktop Project which can be found here:
+http://harwood-leon.com/Tango_Desktop_Project_iphone_buttons.zip derived graphics are Licensed under a Creative Commons  Attribution-Share Alike 2.0 UK: England & Wales License http://creativecommons.org/licenses/by-sa/2.0/uk/
+
+Images courtesy of Wikimedia Commons http://commons.wikimedia.org/
+
+The "Preved-Steve" parody image is copyright Sal Iovine and is provided under a Creative Commons Attribution-No Derivative Works 3.0 Unported license.
+Sal's awesome work can be seen at http://saliovine.blogspot.com
+
+****** END GRAPHICS AND UI ******************
+
+
+PwnageTool.app uses Sparkle, MAAttachedWindow, libpng, and the copyright notices are as follows:-
+
+Sparkle. 
+
+Copyright 2006-2008 Andy Matuschak. All rights reserved. http://sparkle.andymatuschak.org/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONI NFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+libpng.  
+
+This copy of the libpng notices is provided for your convenience. In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail. COPYRIGHT NOTICE, DISCLAIMER, and LICENSE: If you modify libpng you may insert additional notices immediately following this sentence. libpng versions 1.0.7, July 1, 2000, through 1.2.5, October 3, 2002, are Copyright (c) 2000-2002 Glenn Randers-Pehrson and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors Simon-Pierre Cadieux Eric S. Raymond Gilles Vollant and with the following additions to the disclaimer: There is no warranty against interference with your enjoyment of the library or against infringement. There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs. This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user. libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are Copyright (c) 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors: Tom Lane Glenn Randers-Pehrson Willem van Schaik libpng versions 0.89, June 1996, through 0.96, May 1997, are Copyright (c) 1996, 1997 Andreas Dilger Distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list Contributing Authors: John Bowler Kevin Bracey Sam Bushell Magnus Holmgren Greg Roelofs Tom Tanner libpng versions 0.5, May 1995, through 0.88, January 1996, are Copyright (c) 1995, 1996 Guy Eric Schalnat, Group 42, Inc. For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of individuals:Andreas Dilger Dave Martindale Guy Eric Schalnat Paul Schmidt Tim Wegner.
+The PNG Reference Library is supplied "AS IS". The Contributing Authors and Group 42, Inc. disclaim all warranties, expressed or implied, including,without limitation, the warranties of merchantability and of fitness for any purpose. The Contributing Authors and Group 42, Inc. assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage. Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, for any purpose, without fee, subject to the following restrictions: 1. The origin of this source code must not be misrepresented. 2. Altered versions must be plainly marked as such and must not be misrepresented as being the original source. 3. This Copyright notice may not be removed or altered from any source or altered source distribution. The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products. If you use this source code in a product, acknowledgment is not required but would be appreciated. A "png_get_copyright" function is available, for convenient use in "about" boxes and the like:  printf("%s",png_get_copyright(NULL)); Also, the PNG logo (in PNG format, of course) is supplied in the files "pngbar.png" and "pngbar.jpg (88x31) and "pngnow.png" (98x31). Libpng is OSI Certified Open Source Software. OSI Certified Open Source is a certification mark of the Open Source Initiative. Glenn Randers-Pehrson randeg@alum.rpi.edu October 3, 2002.
+
+With thanks to Matt Gemmell for MAAttachedWindow, license below:-
+
+License Agreement for Source Code provided by Matt Gemmell
+
+This software is supplied to you by Matt Gemmell in consideration of your agreement to the following terms, and your use, installation, modification or redistribution of this software constitutes cceptance of these terms. If you do not agree with these terms, please do not use, install, modify or redistribute this software.
+
+In consideration of your agreement to abide by the following terms, and subject to these terms, Matt Gemmell grants you a personal, non-exclusive license, to use, reproduce, modify and redistribute the software, with or without modifications, in source and/or binary forms; provided that if you redistribute the software in its entirety and without modifications, you must retain this notice and the following text and disclaimers in all such redistributions of the software, and that in all cases attribution of Matt Gemmell as the original author of the source code shall be included in all such resulting software products or distributions.
+
+Neither the name, trademarks, service marks or logos of Matt Gemmell or Magic Aubergine may be used to endorse or promote products derived from the software without specific prior written permission from Matt Gemmell. Except as expressly stated in this notice, no other rights or licenses, express or implied, are granted by Matt Gemmell herein, including but not limited to any patent rights that may be infringed by your derivative works or by other works in which the software may be incorporated.
+
+The software is provided by Matt Gemmell on an "AS IS" basis. MATT GEMMELL AND MAGIC AUBERGINE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE SOFTWARE OR ITS USE AND OPERATION ALONE OR IN COMBINATION WITH YOUR PRODUCTS.
+
+IN NO EVENT SHALL MATT GEMMELL OR MAGIC AUBERGINE BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF THE SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF MATT GEMMELL OR MAGIC AUBERGINE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+@stephenfry see you on the 4th of April
